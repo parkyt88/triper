@@ -8,6 +8,6 @@
 <title></title>
 </head>
 <body>
-나는 천재
+멍청한 병권이
 </body>
 </html>
