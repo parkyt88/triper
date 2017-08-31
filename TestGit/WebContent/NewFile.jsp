@@ -8,6 +8,6 @@
 <title></title>
 </head>
 <body>
-병권이 바보
+나는 천재
 </body>
 </html>
